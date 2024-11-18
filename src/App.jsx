@@ -24,15 +24,13 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  name: "Daniela Carrillo",
+  title: "Audiovisual Communication + Screen Stduies Program Student",
+  email: "danycarvil@gmail.com",
+  gitHub: "danyyycv",
+  linkedIn: "www.linkedin.com/in/daniela-carrillo-villarreal-764750267",
+
+
 };
 
 const primaryColor = "#4E567E";
@@ -51,3 +49,6 @@ const App = () => {
 };
 
 export default App;
+const description =  
+" I am a third year communication student at the University of Navarra. Passionate about writing and sharing captivating content, building bridges between visual storytelling and effective communication"
+
